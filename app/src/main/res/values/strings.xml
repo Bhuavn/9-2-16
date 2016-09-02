@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">తెలుగు అప్ </string>
+
+    <string-array name="actValues">
+
+        <item> అప్ల్లీ </item>
+        <item>దానిమ్మ</item>
+        <item> బత్తయి </item>
+        <item> ఆంధ్రప్రదేశ్ </item>
+        <item>సీతాపతి</item>
+        <item>భువన్ </item>
+    </string-array>
+
+    <string name="button">ClickHere</string>
+    <string name="button1">క్లిక్</string>
+    <string name="welcome">ఐ ఐ ఐ టి కి\n స్వాగతం</string>
+
+    <string name="search"> మీకు ఇష్టం అయినా పండుల పేర్లు వెతకండి </string>
+    <string name="message">తెలుగు బాష ని గౌరవిద్దాం, తెలుగు నేర్చుకుందాం మన తల్లిని మనం గౌరవిద్దాం </string>
+
+    <string name="bhuvan">ఏ. భువనేశ్వరరావు
+\nఇన్ఫర్మేషన్ టెక్నాలజీ అధ్యాపకులు
+\nకంప్యూటర్ సైన్స్ డిపార్ట్మెంట్
+\nఐ ఐ ఐ టి
+\nనూజ్వీడు
+\nపిన్ -521201
+</string>
+
+
+
+
+
+</resources>
